@@ -1,5 +1,3 @@
-
-live app via this [Link](https://roxiler-transactions-dashboard.onrender.com/)
 <br/>
 <br/>
 Frontend Technologies
